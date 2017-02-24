@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="visitor">Látogató</string>
+    <string name="guest">Vendég</string>
+    <string name="competitor">Versenyző</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="signin">Bejelentkezés</string>
+    <string name="emptyusername">A felhasználónév kitöltése kötelező!</string>
+    <string name="incorrectPassword">Helytelen jelszó</string>
+</resources>
